@@ -1,0 +1,23 @@
+{
+  "name": "css-styler-new",
+  "version": "1.0.0",
+  "description": "style for html element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NajeebDev/css-styler.git"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "Najeeb Al-Selwi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NajeebDev/css-styler/issues"
+  },
+  "homepage": "https://github.com/NajeebDev/css-styler#readme"
+}
